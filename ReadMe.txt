@@ -26,10 +26,6 @@ fit - how fit the candidate is for the role? (numeric, probability between 0-1)
 
 Keywords: “Aspiring human resources” or “seeking human resources”
 
-Download Data:
-
-https://docs.google.com/spreadsheets/d/117X6i53dKiO7w6kuA1g1TpdTlv1173h_dPlJt5cNNMU/edit?usp=sharing
-
 Goal(s):
 
 Predict how fit the candidate is based on their available information (variable fit)
